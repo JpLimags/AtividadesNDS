@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/bin/Debug/net6.0/MediaPond
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/bin/Debug/net6.0/MediaPond.deps.json
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/bin/Debug/net6.0/MediaPond.runtimeconfig.json
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/bin/Debug/net6.0/MediaPond.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/bin/Debug/net6.0/MediaPond.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/MediaPond.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/MediaPond.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/MediaPond.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/MediaPond.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/MediaPond.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/MediaPond.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/refint/MediaPond.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/MediaPond.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/MediaPond.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/MediaPond/obj/Debug/net6.0/ref/MediaPond.dll
