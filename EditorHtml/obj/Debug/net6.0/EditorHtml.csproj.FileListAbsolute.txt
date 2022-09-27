@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/refint/EditorHtml.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
