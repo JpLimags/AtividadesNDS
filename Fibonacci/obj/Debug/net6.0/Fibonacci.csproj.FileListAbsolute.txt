@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/bin/Debug/net6.0/Fibonacci
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/bin/Debug/net6.0/Fibonacci.deps.json
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/bin/Debug/net6.0/Fibonacci.runtimeconfig.json
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/bin/Debug/net6.0/Fibonacci.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/Fibonacci.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/refint/Fibonacci.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll

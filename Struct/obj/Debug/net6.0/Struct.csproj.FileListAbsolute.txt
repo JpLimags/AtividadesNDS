@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/bin/Debug/net6.0/Struct
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/bin/Debug/net6.0/Struct.deps.json
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/bin/Debug/net6.0/Struct.runtimeconfig.json
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/bin/Debug/net6.0/Struct.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/bin/Debug/net6.0/Struct.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/Struct.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/Struct.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/Struct.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/Struct.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/Struct.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/Struct.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/refint/Struct.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/Struct.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/Struct.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/Struct/obj/Debug/net6.0/ref/Struct.dll

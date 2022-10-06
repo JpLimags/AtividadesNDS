@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/bin/Debug/net6.0/ManipulandoString
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/bin/Debug/net6.0/ManipulandoString.deps.json
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/bin/Debug/net6.0/ManipulandoString.runtimeconfig.json
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/bin/Debug/net6.0/ManipulandoString.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/bin/Debug/net6.0/ManipulandoString.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/ManipulandoString.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/ManipulandoString.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/ManipulandoString.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/ManipulandoString.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/ManipulandoString.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/ManipulandoString.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/refint/ManipulandoString.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/ManipulandoString.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/ManipulandoString.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/ManipulandoString/obj/Debug/net6.0/ref/ManipulandoString.dll
