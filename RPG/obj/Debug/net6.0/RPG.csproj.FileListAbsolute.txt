@@ -3,3 +3,13 @@
 /home/joaopedro/RiderProjects/AtividadesNDS/RPG/obj/Debug/net6.0/RPG.AssemblyInfoInputs.cache
 /home/joaopedro/RiderProjects/AtividadesNDS/RPG/obj/Debug/net6.0/RPG.AssemblyInfo.cs
 /home/joaopedro/RiderProjects/AtividadesNDS/RPG/obj/Debug/net6.0/RPG.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/bin/Debug/net6.0/RPG
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/bin/Debug/net6.0/RPG.deps.json
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/bin/Debug/net6.0/RPG.runtimeconfig.json
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/bin/Debug/net6.0/RPG.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/bin/Debug/net6.0/RPG.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/obj/Debug/net6.0/RPG.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/obj/Debug/net6.0/refint/RPG.dll
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/obj/Debug/net6.0/RPG.pdb
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/obj/Debug/net6.0/RPG.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/AtividadesNDS/RPG/obj/Debug/net6.0/ref/RPG.dll
